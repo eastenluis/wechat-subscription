@@ -1,0 +1,20 @@
+{
+  "name": "wechat-subscription",
+  "version": "0.1.0",
+  "description": "Get list of articles of subscribed wechat id.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node dist/test.js"
+  },
+  "author": "",
+  "license": "Apache",
+  "devDependencies": {
+    "typescript": "^1.8.9",
+    "typings": "^0.7.12"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "lodash": "^4.11.1",
+    "needle": "^1.0.0"
+  }
+}

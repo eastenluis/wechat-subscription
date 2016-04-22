@@ -1,0 +1,12 @@
+{
+  "name": "wechat-subscription",
+  "version": false,
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160416211519"
+  },
+  "ambientDependencies": {
+    "cheerio": "registry:dt/cheerio#0.17.0+20160407085313",
+    "needle": "registry:dt/needle#0.7.8+20160317120654",
+    "node": "registry:dt/node#4.0.0+20160412142033"
+  }
+}
