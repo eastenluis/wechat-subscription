@@ -4,7 +4,8 @@
   "description": "Get list of articles of subscribed wechat id.",
   "main": "index.js",
   "scripts": {
-    "test": "tsc && node dist/test.js"
+    "test": "tsc && node dist/test.js",
+    "postinstall": "typings install"
   },
   "author": "",
   "license": "Apache",
